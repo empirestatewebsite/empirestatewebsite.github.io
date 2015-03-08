@@ -72,3 +72,14 @@ p {
 	font-family: 'Amatic SC';
 	font-size: 32px;
 }
+
+#about_me {
+	padding-bottom: 0px
+	
+	float: left;
+	background-color: rgba(0,0,255,0.7);
+	
+	color: white;
+	font-family: 'Amatic SC';
+	font-size: 32px;
+}
